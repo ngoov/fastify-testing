@@ -16,7 +16,7 @@
     "@fastify/csrf-protection": "^6.0.0",
     "@fastify/helmet": "^10.0.2",
     "@fastify/passport": "^2.2.0",
-    "@fastify/secure-session": "^5.2.0",
+    "@fastify/secure-session": "^6.1.0",
     "fastify": "^4.9.2",
     "openid-client": "^5.2.1",
     "ts-node": "^10.9.1"
